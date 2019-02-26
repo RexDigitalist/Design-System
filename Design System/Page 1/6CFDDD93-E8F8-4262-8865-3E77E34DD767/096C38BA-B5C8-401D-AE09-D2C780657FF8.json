@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "096C38BA-B5C8-401D-AE09-D2C780657FF8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "578BF6D0-BDC4-4917-9B10-C4F16F1CFCAC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F9F52ACA-C198-4AFA-8E39-7CAF76821DAA",
+    "height": 40,
+    "width": 360,
+    "x": 35,
+    "y": 42
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "App Bar / Elements / Icons On Primary / Positioned Left / 2 Up with Menu and Overflow",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F634BB40-E0D2-438A-B6B5-2DD645B13BD5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D18D1806-E944-4F55-8209-9FEFC1DDA6ED",
+  "verticalSpacing": 0
+}
